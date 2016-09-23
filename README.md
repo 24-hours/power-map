@@ -1,3 +1,3 @@
-# Electricity Power Map
+# Power Map Project Website
 
-Mapping of electricity power consumption across Islamabad for the benefit of all.
+A website for the [Power Map](https://github.com/24-hours/power-map) project by the [24-hours group](https://github.com/24-hours).
