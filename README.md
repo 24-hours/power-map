@@ -1,3 +1,3 @@
 # Electricity Power Map
 
-Map electricity power consumption across Islamabad for the benefit of all.
+Mapping of electricity power consumption across Islamabad for the benefit of all.
