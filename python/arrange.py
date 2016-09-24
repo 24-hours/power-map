@@ -1,0 +1,1 @@
+# Combine same coordinates into 1.
